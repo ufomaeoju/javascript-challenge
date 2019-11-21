@@ -1,7 +1,3 @@
-// from data.js
-var tableData = data;
-
-// YOUR CODE HERE!
 // UFO Sightings - Javascript
 
 // Variable Declaration
